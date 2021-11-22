@@ -1,9 +1,9 @@
 # Alternative Download Links for Audio Quran
-# [Arabic عربي](https://github.com/Audio-Quran/Arabic)
+- # [Arabic عربي](https://github.com/Audio-Quran/Arabic)
 - [Mahir Al Muaiqely](http://www.seslikuran.com/kuran/diller/arapca/mahir/sure/cd_hepsi/mahir_hepsi.rar)
 - [Muhammed Al Minshawi](http://www.seslikuran.com/kuran/diller/arapca/minshawi/cuz/cd_hepsi/minshawi_hepsi.rar)
--[Abdul Rahman Al-Sudais & Ibrahim Al-Shuraim](http://www.seslikuran.com/kuran/diller/arapca/sudais/cuz/cd_hepsi/sudais_hepsi.rar)
-# [Azerbaijani Azərbaycanlı](https://github.com/Audio-Quran/Azerbaijani)
+- [Abdul Rahman Al-Sudais & Ibrahim Al-Shuraim](http://www.seslikuran.com/kuran/diller/arapca/sudais/cuz/cd_hepsi/sudais_hepsi.rar)
+- # [Azerbaijani Azərbaycanlı](https://github.com/Audio-Quran/Azerbaijani)
 [Alihan Musayev](http://www.seslikuran.com/kuran/diller/azerice/Azeri4/cd_hepsi/azeri4_hepsi.rar)
 [Ziya Bünyadov - Vasim Memmedeliyev - Mirza Rasul İsmailzade](http://www.seslikuran.com/kuran/diller/azerice/Azeri3/cd_hepsi/azeri3_hepsi.rar)
 # [Bosanski](https://github.com/Audio-Quran/Bosanski)
