@@ -31,4 +31,5 @@
 # [Urdu اردو Moulana Jalandhari](http://www.seslikuran.com/kuran/diller/urduca/urduca1/sure/cd_hepsi/Urdu.rar)
 # [فارسی Persian](http://www.seslikuran.com/kuran/diller/farsca/farsca1/sure/cd_hepsi/Persian.rar)
 ![Audio Quran](https://raw.githubusercontent.com/Audio-Quran/English/main/languages.png)
+
 ---------------------------QURAN 6348 VERSES 114 SURAS---------------------------
