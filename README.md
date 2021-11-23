@@ -24,7 +24,7 @@
 # [Türkçe](https://github.com/Audio-Quran/Turkce)
 - [Diyanet Vakfı Meali](http://www.seslikuran.com/kuran/diller/turkce/diyanetvakfi/cuz/cd_hepsi/DiyanetVakfiMeali.rar)
 - [Elmalılı Hamdi Yazır](http://www.seslikuran.com/kuran/diller/turkce/elmalilihamdiyazir/cuz/cd_hepsi/ElmaliliHamdiYazir.rar)
-- [Hamdi Döndüren](http://www.seslikuran.com/kuran/diller/turkce/hamdidonduren/cuz/cd_hepsi/HamdiDonduren.rar)
+- [Hamdi Döndüren](https://disk.yandex.com.tr/d/6aJOh_Kn300KmQ)
 - [Suat Yıldırım](http://www.seslikuran.com/kuran/diller/turkce/suatyildirim/cuz/cd_hepsi/SuatYildirim.rar)
 - [Yaşar Nuri Öztürk](https://disk.yandex.com.tr/d/VXxov2UsV3MfU)
 # [Uigur Muhammed Salih Karajim - Ahmed Jan](http://www.seslikuran.com/kuran/diller/uygurca/uyghur/sure/cd_hepsi/uygur.rar)
