@@ -22,6 +22,7 @@
 # [Korean 한국인](http://www.seslikuran.com/kuran/diller/korece/korece1/sure/cd_hepsi/Korean.rar)
 # [Russian Pусский](http://www.seslikuran.com/kuran/diller/rusca/rusca1/cuz/cd_hepsi/Russian.rar)
 # [Türkçe](https://github.com/Audio-Quran/Turkce)
+- [1 Ayet Arapça 1 Ayet Türkçe Suat Yıldırım Sudeys Şureym](https://disk.yandex.com.tr/d/ax3kceonWban5g)
 - [Diyanet Vakfı Meali](http://www.seslikuran.com/kuran/diller/turkce/diyanetvakfi/cuz/cd_hepsi/DiyanetVakfiMeali.rar)
 - [Elmalılı Hamdi Yazır](http://www.seslikuran.com/kuran/diller/turkce/elmalilihamdiyazir/cuz/cd_hepsi/ElmaliliHamdiYazir.rar)
 - [Hamdi Döndüren](https://disk.yandex.com.tr/d/6aJOh_Kn300KmQ)
