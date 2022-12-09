@@ -1,3 +1,3 @@
-9:128 and 9:129 are added to Quran by Satan! They are not from THE GOD!
+9:128 and 129 are from THE GOD!
 
----------------------------QURAN 6346 VERSES 114 SURAS---------------------------
+---------------------------QURAN: 6348 VERSES - 114 SURAS---------------------------
