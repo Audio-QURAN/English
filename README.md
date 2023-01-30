@@ -1,3 +1,3 @@
-9:128 and 129 are from satan! NOT FROM THE GOD!
+9:128-129 are from satan! NOT FROM THE GOD!
 
----------------------------QURAN: 19x334 VERSES - 6x19 SURAS---------------------------
+---------------------------QURAN: 19x334 VERSES - 6x19 CHAPTERS---------------------------
